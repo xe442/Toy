@@ -99,10 +99,10 @@
    + 使用情况：针对事先不能完整地定义需求的软件开发。
 4. 喷泉模型
    + 流程：分析、设计、实现、维护等一系列迭代过程是无缝衔接且相互重叠的，各个开发阶段没有次序要求，可以交互进行，随时补漏。
-   ![image](https://github.com/xe442/Toy/blob/master/总复习图片/喷泉模型.PNG)
+   ![image](https://github.com/xe442/Toy/blob/master/总复习图片/喷泉模型.png)
 5. 螺旋模型
    + 流程：该模型将软件生存周期的活动分为四个可重复的阶段：规划、风险分析、开发和评估
-   ![image](https://github.com/xe442/Toy/blob/master/总复习图片/螺旋模型.PNG)
+   ![image](https://github.com/xe442/Toy/blob/master/总复习图片/螺旋模型.png)
 
 <u>**各个软件开发模型的差异**</u>
 
