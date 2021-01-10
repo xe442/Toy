@@ -271,20 +271,27 @@ DFD的画法：
 
 <u>**详细设计工具**</u>：
 + <u>**程序框图（程序流程图）**</u>
+  
   ![image](https://github.com/xe442/Toy/blob/master/总复习图片/流程图.png)
 + <u>**N-S图**</u>
+  
   ![image](https://github.com/xe442/Toy/blob/master/总复习图片/ns图.png)
 + <u>**PAD图**</u>
+  
   ![image](https://github.com/xe442/Toy/blob/master/总复习图片/pad图.png)
 + <u>**伪代码**</u>
+  
   ![image](https://github.com/xe442/Toy/blob/master/总复习图片/伪代码.png)
 
 <u>**变换型DFD如何转化到初始MSD：**</u>
 1. <u>**将DFD分为三个部分：输入、变换和输出**</u>
+   
    ![image](https://github.com/xe442/Toy/blob/master/总复习图片/dfd.png)
 2. <u>**做第一级分解，将最顶层的主控模块分解为输入模块，变换模块和输出模块**</u>
+   
    ![image](https://github.com/xe442/Toy/blob/master/总复习图片/dfd2msd_step1.png)
 3. <u>**自顶向下，逐步求精**</u>
+   
    ![image](https://github.com/xe442/Toy/blob/master/总复习图片/dfd2msd_step2.png)
 
 耦合的定义，类型：
