@@ -270,10 +270,14 @@ DFD的画法：
 + 事务性数据流图是指数据达到一个处理T，处理T根据数据输入的类型或值，在其后的若干动作序列中选择一个来执行。
 
 <u>**详细设计工具**</u>：
-+ <u>**程序框图**</u>
++ <u>**程序框图（程序流程图）**</u>
+  ![image](https://github.com/xe442/Toy/blob/master/总复习图片/流程图.png)
 + <u>**N-S图**</u>
+  ![image](https://github.com/xe442/Toy/blob/master/总复习图片/ns图.png)
 + <u>**PAD图**</u>
+  ![image](https://github.com/xe442/Toy/blob/master/总复习图片/pad图.png)
 + <u>**伪代码**</u>
+  ![image](https://github.com/xe442/Toy/blob/master/总复习图片/伪代码.png)
 
 <u>**变换型DFD如何转化到初始MSD：**</u>
 1. <u>**将DFD分为三个部分：输入、变换和输出**</u>
@@ -288,8 +292,6 @@ DFD的画法：
 
 内聚的定义，类型：
 ![image](https://github.com/xe442/Toy/blob/master/总复习图片/内聚.png)
-
-**详细设计工具：框图，N-S图等，以及详细设计工具之间的转换**
 
 # 面向对象方法
 
