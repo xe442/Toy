@@ -183,9 +183,11 @@
 DFD的画法：
 
 顶层示例：
+
 ![image](https://github.com/xe442/Toy/blob/master/总复习图片/顶层数据流图.png)
 
 0层示例：
+
 ![image](https://github.com/xe442/Toy/blob/master/总复习图片/数据流图.png)
 
 数据字典表示符号：
